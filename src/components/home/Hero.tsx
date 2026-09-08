@@ -2,7 +2,7 @@ import { ArrowRight, Sparkles, Star } from 'lucide-react';
 import { trialLink } from '@/lib/navigation';
 
 const CHILD_MAIN =
-  'https://res.cloudinary.com/wsaz946u/image/upload/v1788167404/kindy_nguyenquangkhai.webp';
+  'https://res.cloudinary.com/wsaz946u/image/upload/v1788167436/kindy_slide3.webp';
 const CHILD_SECONDARY =
   'https://res.cloudinary.com/wsaz946u/image/upload/v1788167404/kindy_little-girls-section-sun-little-kids.webp';
 const TIGER =
