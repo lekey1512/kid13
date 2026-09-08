@@ -47,7 +47,7 @@ const testimonials: Testimonial[] = [
     quote:
       'Thầy cô ở ILE rất hiểu lứa tuổi này, hướng dẫn con từng bước chứ không ép buộc. Con học mà vẫn giữ được tinh thần thoải mái.',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167397/kindy_vudanhthanh.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167368/mohamed.webp',
     panelClass: 'bg-cream-50',
     avatarShape: '42% 58% 52% 48% / 58% 42% 58% 42%',
   },
