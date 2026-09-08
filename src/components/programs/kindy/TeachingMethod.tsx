@@ -1,7 +1,7 @@
 import { Sparkles, Gamepad2, RefreshCw, HeartHandshake, TrendingUp } from 'lucide-react';
 
 const PHOTO =
-  'https://res.cloudinary.com/wsaz946u/image/upload/v1788167437/kindy_teacher_kids.webp';
+  'https://res.cloudinary.com/wsaz946u/image/upload/v1788167435/kindy_slide2.webp';
 const ANIMAL =
   'https://res.cloudinary.com/wsaz946u/image/upload/v1788166532/play-1.svg';
 
