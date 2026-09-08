@@ -1,5 +1,6 @@
 import { type CSSProperties } from 'react';
-import { Sparkles } from 'lucide-react';
+import { Link } from 'react-router-dom';
+import { ArrowRight, Sparkles } from 'lucide-react';
 
 interface Activity {
   photo: string;
@@ -109,6 +110,19 @@ export default function Activities() {
               <Polaroid key={a.caption} activity={a} />
             ))}
           </div>
+
+          <div className="mt-12 flex justify-center">
+            <Link
+              to="/hoat-dong"
+              className="group inline-flex items-center gap-2 font-body text-base font-bold text-ink-800 underline decoration-blush-400 decoration-2 underline-offset-4 transition-colors duration-200 hover:text-sky-700"
+            >
+              Xem thêm
+              <ArrowRight
+                className="h-5 w-5 transition-transform duration-300 ease-smooth group-hover:translate-x-1"
+                strokeWidth={2.25}
+              />
+            </Link>
+          </div>
         </div>
 
         {/* ── Mobile / tablet: stacked polaroids ── */}
@@ -131,6 +145,19 @@ export default function Activities() {
               }
             />
           ))}
+        </div>
+
+        <div className="mt-12 flex justify-center lg:hidden">
+          <Link
+            to="/hoat-dong"
+            className="group inline-flex items-center gap-2 font-body text-base font-bold text-ink-800 underline decoration-blush-400 decoration-2 underline-offset-4 transition-colors duration-200 hover:text-sky-700"
+          >
+            Xem thêm
+            <ArrowRight
+              className="h-5 w-5 transition-transform duration-300 ease-smooth group-hover:translate-x-1"
+              strokeWidth={2.25}
+            />
+          </Link>
         </div>
       </div>
 

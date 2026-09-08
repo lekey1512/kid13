@@ -319,7 +319,7 @@ export default function Teachers() {
         {/* CTA — ghost-style link */}
         <div className="mt-14 flex justify-center">
           <Link
-            to="/gioi-thieu#doi-ngu"
+            to="/doi-ngu"
             className="group inline-flex items-center gap-2 font-body text-base font-bold text-ink-800 underline decoration-blush-400 decoration-2 underline-offset-4 transition-colors duration-200 hover:text-sky-700"
           >
             Xem toàn bộ đội ngũ

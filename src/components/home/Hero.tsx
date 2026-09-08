@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import { ArrowRight, Sparkles, Star } from 'lucide-react';
 import { trialLink } from '@/lib/navigation';
 
@@ -73,12 +72,12 @@ export default function Hero() {
                 strokeWidth={2.25}
               />
             </a>
-            <Link
-              to="/chuong-trinh-hoc"
+            <a
+              href="#ba-the-gioi-mot-hanh-trinh"
               className="font-body text-sm font-semibold text-ink-700 underline-offset-4 transition-colors hover:text-ink-900 hover:underline"
             >
               Chương trình học
-            </Link>
+            </a>
           </div>
 
           {/* Child visual - landscape organic, visible in first viewport */}
@@ -199,12 +198,12 @@ export default function Hero() {
                   strokeWidth={2.25}
                 />
               </a>
-              <Link
-                to="/chuong-trinh-hoc"
+              <a
+                href="#ba-the-gioi-mot-hanh-trinh"
                 className="font-body text-base font-semibold text-ink-700 underline-offset-4 transition-colors hover:text-ink-900 hover:underline"
               >
                 Khám phá chương trình học
-              </Link>
+              </a>
             </div>
 
             {/* Trust row */}

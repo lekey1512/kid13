@@ -234,10 +234,10 @@ export default function Results() {
         {/* CTA — ghost-style link */}
         <div className="mt-14 flex justify-center">
           <Link
-            to="/gioi-thieu#ket-qua"
+            to="/ket-qua"
             className="group inline-flex items-center gap-2 font-body text-base font-bold text-ink-800 underline decoration-blush-400 decoration-2 underline-offset-4 transition-colors duration-200 hover:text-sky-700"
           >
-            Xem thêm câu chuyện thành công
+            Xem thêm các kết quả khác
             <ArrowRight
               className="h-5 w-5 transition-transform duration-300 ease-smooth group-hover:translate-x-1"
               strokeWidth={2.25}

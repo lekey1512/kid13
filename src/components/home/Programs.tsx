@@ -66,7 +66,7 @@ const programs: Program[] = [
 
 export default function Programs() {
   return (
-    <section className="relative overflow-hidden bg-cream-100 py-20 lg:py-28">
+    <section id="ba-the-gioi-mot-hanh-trinh" className="relative overflow-hidden bg-cream-100 py-20 lg:py-28">
       <div
         aria-hidden
         className="pointer-events-none absolute -right-24 top-20 h-[320px] w-[320px] rounded-[46%_54%_58%_42%_/_54%_46%_54%_46%] bg-sky-200/30 blur-2xl"
