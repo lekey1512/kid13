@@ -9,7 +9,7 @@ export default function ContactPage() {
         badge="Ghé thăm ILE"
         title="Liên hệ"
         subtitle="Đội ngũ ILE luôn sẵn sàng chào đón phụ huynh và các con."
-        image="https://res.cloudinary.com/wsaz946u/image/upload/v1788167436/kindy_slide2.webp"
+        image="https://res.cloudinary.com/wsaz946u/image/upload/v1788841059/hoat-dong_3.jpg"
         imageAlt="Học viên và giáo viên ILE"
         fullBleed={true}
       />
