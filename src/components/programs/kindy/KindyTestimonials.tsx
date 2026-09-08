@@ -47,7 +47,7 @@ const testimonials: Testimonial[] = [
     quote:
       'Lớp học nhỏ, cô quan tâm từng bé một. Con đi học rất háo hức, chưa bao giờ đòi nghỉ.',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167397/kindy_vudanhthanh.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167368/mohamed.webp',
     panelClass: 'bg-cream-50',
     avatarShape: '58% 42% 45% 55% / 48% 55% 45% 52%',
   },
