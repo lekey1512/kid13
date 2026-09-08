@@ -39,7 +39,7 @@ const baseTeachers: Teacher[] = [
     name: 'Bích Sơn',
     initial: 'B',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167400/kindy_hotantinhanh.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167424/kindy_tes_1.webp',
     credential: 'TESOL - Chứng chỉ giảng dạy chuyên nghiệp',
     experience: '05 năm kinh nghiệm · Chuyên IELTS',
     tag: 'Giáo viên Việt Nam',
