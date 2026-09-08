@@ -27,8 +27,8 @@ interface Teacher {
 const teachers: Teacher[] = [
   {
     prefix: 'Thầy',
-    name: 'Tirich Mohamed',
-    initial: 'T',
+    name: 'Pavel',
+    initial: 'P',
     photo:
       'https://res.cloudinary.com/wsaz946u/image/upload/v1788167432/kindy_avta-PavelKukikov.webp',
     credential: 'TESOL – Chứng chỉ giảng dạy chuyên nghiệp',
