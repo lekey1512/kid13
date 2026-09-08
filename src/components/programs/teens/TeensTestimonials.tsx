@@ -17,7 +17,7 @@ const testimonials: Testimonial[] = [
     quote:
       'Con viết luận tiếng Anh tốt hơn rất nhiều, đang được thầy cô định hướng chuẩn bị cho kỳ thi IELTS sắp tới.',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167402/kindy_letieucat.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167369/bich-son.webp',
     panelClass: 'bg-sky-100/70',
     avatarShape: '52% 48% 56% 44% / 48% 54% 46% 52%',
   },
