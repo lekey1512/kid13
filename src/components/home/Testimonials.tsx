@@ -47,7 +47,7 @@ const testimonials: Testimonial[] = [
     quote:
       'Giáo viên rất tận tâm với các con. Báo cáo tiến độ học tập hàng tháng rất rõ ràng, mình theo dõi con dễ dàng.',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167401/kindy_lekimphandang.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167368/mohamed.webp',
     panelClass: 'bg-sky-100/60',
     avatarShape: '42% 58% 52% 48% / 58% 42% 58% 42%',
   },
