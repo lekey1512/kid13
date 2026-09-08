@@ -37,7 +37,7 @@ const testimonials: Testimonial[] = [
     quote:
       'Con mới học được 2 tháng mà đã biết chào cô bằng tiếng Anh, về nhà còn dạy lại em. Nhìn con vui là mình mừng lắm.',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167400/kindy_hotantinhanh.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167369/bich-son.webp',
     panelClass: 'bg-blush-100/70',
     avatarShape: '46% 54% 44% 56% / 54% 46% 54% 46%',
   },
