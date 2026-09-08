@@ -77,7 +77,7 @@ const teachers: Teacher[] = [
     name: 'Cẩm Tiên',
     initial: 'C',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167396/kindy_tranbaokhang.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167432/kindy_avta-CarolinaDeCastro.webp',
     experience: '03 năm kinh nghiệm · IELTS 6.5',
     tag: 'Giáo viên Việt Nam',
     isNative: false,
