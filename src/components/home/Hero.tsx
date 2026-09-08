@@ -4,7 +4,7 @@ import { trialLink } from '@/lib/navigation';
 const CHILD_MAIN =
   'https://res.cloudinary.com/wsaz946u/image/upload/v1788167436/kindy_slide3.webp';
 const CHILD_SECONDARY =
-  'https://res.cloudinary.com/wsaz946u/image/upload/v1788167404/kindy_little-girls-section-sun-little-kids.webp';
+  'https://res.cloudinary.com/wsaz946u/image/upload/v1788167404/kindy_nguyenquangkhai.webp';
 const TIGER =
   'https://res.cloudinary.com/wsaz946u/image/upload/v1788166533/yeya-tiger.svg';
 
