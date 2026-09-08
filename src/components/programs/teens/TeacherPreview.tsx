@@ -27,7 +27,7 @@ const teachers: Teacher[] = [
     prefix: 'Cô',
     name: 'Bích Sơn',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167400/kindy_hotantinhanh.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167424/kindy_tes_1.webp',
     tag: 'Giáo viên Việt Nam',
     isNative: false,
     avatarShape: '42% 58% 52% 48% / 48% 42% 58% 52%',
