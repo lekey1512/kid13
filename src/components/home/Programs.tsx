@@ -39,7 +39,7 @@ const programs: Program[] = [
     tagline: 'Giao tiếp vui vẻ - xây nền tảng ngôn ngữ vững chắc.',
     body: 'Bé mở rộng vốn từ vựng, nắm cấu trúc ngữ pháp và rèn giao tiếp thực tế qua các hoạt động tương tác. Cả 4 kỹ năng nghe - nói - đọc - viết được phát triển song song, đồng bộ với chương trình học ở trường.',
     image:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167402/kindy_letieucat.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167401/kindy_lekimphandang.webp',
     character:
       'https://res.cloudinary.com/wsaz946u/image/upload/v1788166534/kindy_apo_1.webp',
     panelClass: 'bg-cream-50',
