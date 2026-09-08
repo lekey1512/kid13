@@ -55,7 +55,7 @@ const baseTeachers: Teacher[] = [
     name: 'Ngọc Minh',
     initial: 'N',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167397/kindy_vudanhthanh.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167430/primary_tes_2.webp',
     experience: '03 năm kinh nghiệm · IELTS 7.0',
     tag: 'Giáo viên Việt Nam',
     isNative: false,
