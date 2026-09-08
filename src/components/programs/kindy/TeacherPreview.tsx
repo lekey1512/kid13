@@ -15,7 +15,7 @@ const teachers: Teacher[] = [
     prefix: 'Thầy',
     name: 'Tirich Mohamed',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167400/kindy_langoctuenhi.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167432/kindy_avta-PavelKukikov.webp',
     tag: 'Giáo viên bản ngữ',
     isNative: true,
     avatarShape: '58% 42% 48% 52% / 52% 58% 42% 48%',
