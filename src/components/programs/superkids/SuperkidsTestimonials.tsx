@@ -27,7 +27,7 @@ const testimonials: Testimonial[] = [
     quote:
       'Môi trường học ở đây rất vui, con không còn ngại nói tiếng Anh trước lớp như trước nữa. Cảm ơn thầy cô ILE.',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167400/kindy_langoctuenhi.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167369/bich-son.webp',
     panelClass: 'bg-blush-100/70',
     avatarShape: '46% 54% 44% 56% / 54% 46% 54% 46%',
   },
