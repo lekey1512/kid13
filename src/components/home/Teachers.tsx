@@ -149,7 +149,7 @@ export default function Teachers() {
   const onPointerDown = useCallback(
     (e: React.PointerEvent<HTMLDivElement>) => {
       const el = trackRef.current;
-      if (!el || window.innerWidth < 1024) return;
+      if (!el) return;
       dragState.current = {
         startX: e.clientX,
         scrollLeft: el.scrollLeft,
@@ -274,8 +274,8 @@ export default function Teachers() {
           <div
             ref={trackRef}
             className={[
-              'no-scrollbar flex flex-col gap-6 lg:flex-row lg:gap-6 lg:overflow-x-auto lg:snap-x lg:pb-6',
-              dragging ? 'lg:cursor-grabbing' : 'lg:cursor-grab',
+              'no-scrollbar flex gap-6 overflow-x-auto snap-x snap-mandatory pb-6',
+              dragging ? 'cursor-grabbing' : 'cursor-grab',
             ].join(' ')}
             onPointerDown={onPointerDown}
             onPointerMove={onPointerMove}
@@ -295,11 +295,11 @@ export default function Teachers() {
               disabled={atStart}
               aria-label="Giáo viên trước"
               className={[
-                'flex h-11 w-11 items-center justify-center rounded-full bg-blush-300 shadow-card ring-1 ring-ink-300/20 transition-all duration-300 ease-smooth',
+                'flex h-[52px] w-[52px] items-center justify-center rounded-full bg-blush-300 shadow-card ring-1 ring-ink-300/20 transition-all duration-300 ease-smooth',
                 atStart ? 'pointer-events-none opacity-30' : 'opacity-100',
               ].join(' ')}
             >
-              <ChevronLeft className="h-5 w-5 text-ink-900" strokeWidth={2.25} />
+              <ChevronLeft className="h-6 w-6 text-ink-900" strokeWidth={2.25} />
             </button>
             <button
               type="button"
@@ -307,11 +307,11 @@ export default function Teachers() {
               disabled={atEnd}
               aria-label="Giáo viên tiếp theo"
               className={[
-                'flex h-11 w-11 items-center justify-center rounded-full bg-blush-300 shadow-card ring-1 ring-ink-300/20 transition-all duration-300 ease-smooth',
+                'flex h-[52px] w-[52px] items-center justify-center rounded-full bg-blush-300 shadow-card ring-1 ring-ink-300/20 transition-all duration-300 ease-smooth',
                 atEnd ? 'pointer-events-none opacity-30' : 'opacity-100',
               ].join(' ')}
             >
-              <ChevronRight className="h-5 w-5 text-ink-900" strokeWidth={2.25} />
+              <ChevronRight className="h-6 w-6 text-ink-900" strokeWidth={2.25} />
             </button>
           </div>
         </div>
@@ -351,7 +351,7 @@ function TeacherCard({ teacher }: { teacher: Teacher; index: number }) {
   return (
     <article
       className={[
-        'group relative w-full p-6 shadow-soft ring-1 ring-ink-300/20 transition-all duration-300 ease-smooth hover:-translate-y-1 hover:shadow-card lg:w-[340px] lg:shrink-0 lg:snap-center',
+        'group relative w-[85vw] max-w-[360px] shrink-0 snap-center p-6 shadow-soft ring-1 ring-ink-300/20 transition-all duration-300 ease-smooth hover:-translate-y-1 hover:shadow-card lg:w-[340px] lg:max-w-none',
         'bg-cream-50',
         teacher.tilt,
       ].join(' ')}
