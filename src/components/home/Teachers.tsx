@@ -89,10 +89,10 @@ const teachers: Teacher[] = [
   },
   {
     prefix: 'Cô',
-    name: 'Minh Anh',
+    name: 'Kai',
     initial: 'M',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167435/kindy_slide1.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167434/kindy_Linzi-Mary-Dickson.webp',
     experience: '05 năm kinh nghiệm · Chuyên IELTS',
     tag: 'Giáo viên Việt Nam',
     isNative: false,
