@@ -16,7 +16,7 @@ export default function TeensProgramPage() {
         badge="11-15 tuổi"
         title="Tiếng Anh Thiếu niên"
         subtitle="Tăng tốc tiếng Anh - Chuẩn bị hành trang cho những bước nhảy vọt."
-        image="https://res.cloudinary.com/wsaz946u/image/upload/v1788167436/kindy_slide3.webp"
+        image="https://res.cloudinary.com/wsaz946u/image/upload/v1788841058/hoc-sinh_4.jpg"
         imageAlt="Học sinh 11-15 tuổi học tiếng Anh tại ILE"
         fullBleed={true}
       />
