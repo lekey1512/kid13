@@ -67,7 +67,7 @@ const baseTeachers: Teacher[] = [
   },
   {
     prefix: 'Cô',
-    name: 'Cẩm Tiên',
+    name: 'Mary',
     initial: 'C',
     photo:
       'https://res.cloudinary.com/wsaz946u/image/upload/v1788167434/kindy_Linzi-Mary-Dickson.webp',
