@@ -30,7 +30,7 @@ const teachers: Teacher[] = [
     name: 'Tirich Mohamed',
     initial: 'T',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167400/kindy_langoctuenhi.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167433/kindy_avta-RickDujister.webp',
     credential: 'TESOL – Chứng chỉ giảng dạy chuyên nghiệp',
     experience: '10 năm kinh nghiệm · Chuyên IELTS',
     tag: 'Giáo viên bản ngữ',
