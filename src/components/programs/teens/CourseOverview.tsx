@@ -1,7 +1,7 @@
 import { Sparkles, Star } from 'lucide-react';
 
 const PRIMARY_PHOTO =
-  'https://res.cloudinary.com/wsaz946u/image/upload/v1788167402/kindy_letieucat.webp';
+  'https://res.cloudinary.com/wsaz946u/image/upload/v1788167373/hs-vo-tran-song-thu.png';
 const SECONDARY_PHOTO =
   'https://res.cloudinary.com/wsaz946u/image/upload/v1788167401/kindy_lekimphandang.webp';
 const BG_IMAGE =
