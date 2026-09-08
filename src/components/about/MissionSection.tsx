@@ -1,7 +1,7 @@
 import { Sparkles, BookOpen, Heart, Users } from 'lucide-react';
 
 const MISSION_PHOTO =
-  'https://res.cloudinary.com/wsaz946u/image/upload/v1788167401/kindy_lekimphandang.webp';
+  'https://res.cloudinary.com/wsaz946u/image/upload/v1788167396/kindy_testimonial_right.webp';
 
 interface MissionCard {
   icon: typeof BookOpen;
