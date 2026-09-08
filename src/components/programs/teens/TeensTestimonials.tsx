@@ -37,7 +37,7 @@ const testimonials: Testimonial[] = [
     quote:
       'Con không còn ngại nói tiếng Anh trước lớp, giờ còn tự tin tranh luận và bảo vệ ý kiến của mình bằng tiếng Anh.',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167369/bich-son.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167368/ngoc-minh.webp',
     panelClass: 'bg-sky-100/60',
     avatarShape: '58% 42% 45% 55% / 48% 55% 45% 52%',
   },
