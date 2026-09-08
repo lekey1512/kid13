@@ -1,7 +1,7 @@
 import { Sparkles, Brain, PenTool, BookOpen, Presentation } from 'lucide-react';
 
 const PHOTO =
-  'https://res.cloudinary.com/wsaz946u/image/upload/v1788167437/kindy_teacher_kids.webp';
+  'https://res.cloudinary.com/wsaz946u/image/upload/v1788167370/cap-bac-nghe-thumbnail-768x512.jpg';
 const ANIMAL =
   'https://res.cloudinary.com/wsaz946u/image/upload/v1788166532/play-1.svg';
 
