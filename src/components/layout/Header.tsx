@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, Sparkles, ChevronDown } from 'lucide-react';
+import { Menu, X, ChevronDown } from 'lucide-react';
 import { navItems, trialLink, type NavItem } from '@/lib/navigation';
 
 export default function Header() {
@@ -34,11 +34,16 @@ export default function Header() {
         <div className="flex h-20 items-center justify-between gap-6">
           <Link
             to="/"
+            onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
             className="group flex items-center gap-2.5"
             aria-label="ILE English Center - Trang chủ"
           >
-            <span className="flex h-10 w-10 items-center justify-center rounded-[20px] bg-ink-900 text-cream-100 shadow-soft transition-transform duration-300 ease-smooth group-hover:scale-105">
-              <Sparkles className="h-5 w-5" strokeWidth={2.25} />
+            <span className="flex h-10 w-10 items-center justify-center rounded-[20px] bg-ink-900 shadow-soft transition-transform duration-300 ease-smooth group-hover:scale-105">
+              <img
+                src="https://res.cloudinary.com/wsaz946u/image/upload/v1788166775/logo-ile.png"
+                alt="ILE English Center"
+                className="h-6 w-6 rounded-[14px] object-cover"
+              />
             </span>
             <span className="font-heading text-xl font-extrabold tracking-tight text-ink-900">
               ILE

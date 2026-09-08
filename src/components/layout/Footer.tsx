@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Sparkles, Phone, Mail, MapPin } from 'lucide-react';
+import { Phone, Mail, MapPin } from 'lucide-react';
 import { navItems, trialLink } from '@/lib/navigation';
 
 export default function Footer() {
@@ -8,9 +8,13 @@ export default function Footer() {
       <div className="container-page py-14">
         <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-4">
           <div className="lg:col-span-1">
-            <Link to="/" className="flex items-center gap-2.5">
-              <span className="flex h-10 w-10 items-center justify-center rounded-[20px] bg-ink-900 text-cream-100">
-                <Sparkles className="h-5 w-5" strokeWidth={2.25} />
+            <Link to="/" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} className="flex items-center gap-2.5">
+              <span className="flex h-10 w-10 items-center justify-center rounded-[20px] bg-ink-900">
+                <img
+                  src="https://res.cloudinary.com/wsaz946u/image/upload/v1788166775/logo-ile.png"
+                  alt="ILE English Center"
+                  className="h-6 w-6 rounded-[14px] object-cover"
+                />
               </span>
               <span className="font-heading text-xl font-extrabold tracking-tight text-ink-900">
                 ILE
@@ -30,7 +34,7 @@ export default function Footer() {
               {navItems.map((item) => (
                 <li key={item.to}>
                   <Link
-                    to={item.to}
+                    to={item.to === '/chuong-trinh-hoc' ? '/#ba-the-gioi-mot-hanh-trinh' : item.to}
                     className="font-body text-sm text-ink-600 transition-colors hover:text-ink-900"
                   >
                     {item.label}

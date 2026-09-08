@@ -98,6 +98,8 @@ export default function FinalCTA({
               {isExternal ? (
                 <a
                   href={ctaHref}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="group relative inline-flex items-center justify-center gap-3 rounded-[24px] bg-ink-900 px-8 py-5 font-body text-base font-extrabold tracking-wide text-cream-100 shadow-lift transition-all duration-300 ease-smooth hover:bg-ink-800 hover:shadow-card sm:text-lg lg:px-10 lg:py-6 lg:text-xl"
                 >
                   <Star

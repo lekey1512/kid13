@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { Link } from 'react-router-dom';
 import { Sparkles, Plus, ArrowRight } from 'lucide-react';
 
 interface FAQItem {
@@ -112,8 +111,10 @@ export default function FAQ() {
 
         {/* CTA — ghost-style link */}
         <div className="mt-12 flex justify-center">
-          <Link
-            to="/gioi-thieu#lien-he"
+          <a
+            href="https://zalo.me/0398519485"
+            target="_blank"
+            rel="noopener noreferrer"
             className="group inline-flex items-center gap-2 font-body text-base font-bold text-ink-800 underline decoration-blush-400 decoration-2 underline-offset-4 transition-colors duration-200 hover:text-sky-700"
           >
             Vẫn còn thắc mắc? Liên hệ với chúng tôi
@@ -121,7 +122,7 @@ export default function FAQ() {
               className="h-5 w-5 transition-transform duration-300 ease-smooth group-hover:translate-x-1"
               strokeWidth={2.25}
             />
-          </Link>
+          </a>
         </div>
       </div>
 
