@@ -68,7 +68,7 @@ const students: Student[] = [
     name: 'Võ Trần Song Thư',
     context: 'Lớp 12 · Trường TH-THCS-THPT Thái Bình Dương (IPS)',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167400/kindy_hotantinhanh.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167402/kindy_letieucat.webp',
     achievements: [
       'Học bổng Đại học Fulbright Việt Nam',
       'Học bổng VinUni & Đại học Quốc tế Sài Gòn',
