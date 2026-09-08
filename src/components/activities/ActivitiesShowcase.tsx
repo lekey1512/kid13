@@ -30,7 +30,7 @@ const activities: ActivityRow[] = [
   },
   {
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167399/kindy_carousel-2.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788841058/hoat-dong.jpg',
     number: '02',
     tag: 'Hoạt động 02',
     title: 'Trò chơi vận động',
