@@ -17,7 +17,7 @@ const testimonials: Testimonial[] = [
     quote:
       'Con rất thích đi học ở ILE, về nhà còn tự hát những bài tiếng Anh mới học được. Thấy con vui là mình yên tâm.',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167404/kindy_nguyenquangkhai.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167368/ngoc-minh.webp',
     panelClass: 'bg-sky-100/70',
     avatarShape: '52% 48% 56% 44% / 48% 54% 46% 52%',
   },
