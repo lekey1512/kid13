@@ -74,7 +74,7 @@ const teachers: Teacher[] = [
   },
   {
     prefix: 'Cô',
-    name: 'Cẩm Tiên',
+    name: 'Carolina',
     initial: 'C',
     photo:
       'https://res.cloudinary.com/wsaz946u/image/upload/v1788167432/kindy_avta-CarolinaDeCastro.webp',
