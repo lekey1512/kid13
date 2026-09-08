@@ -58,9 +58,9 @@ const teachers: Teacher[] = [
     cardShape: '24px 90px 24px 24px',
   },
   {
-    prefix: 'Cô',
-    name: 'Ngọc Minh',
-    initial: 'N',
+    prefix: 'Thầy',
+    name: 'Bourdon',
+    initial: 'B',
     photo:
       'https://res.cloudinary.com/wsaz946u/image/upload/v1788167437/kindy_teacher-bourdon01.webp',
     experience: '03 năm kinh nghiệm · IELTS 7.0',
