@@ -102,7 +102,7 @@ const students: Student[] = [
     name: 'Nguyễn Thị Lam Ngọc',
     context: 'Lớp 6 · Trường TH-THCS IGC Bến Tre',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167396/kindy_tranbaokhang.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167404/kindy_little-girls-section-sun-little-kids.webp',
     achievements: [
       'Học bổng Tài năng xuyên suốt cấp THCS',
       'Dự án Triển vọng vòng Quốc gia, cuộc thi Leader in Me 2023',
