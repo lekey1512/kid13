@@ -27,7 +27,7 @@ const testimonials: Testimonial[] = [
     quote:
       'Con tự tin giao tiếp hơn hẳn so với trước, giờ còn thích tự đọc sách tiếng Anh mỗi tối. Tiến bộ rõ rệt chỉ sau vài tháng.',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167368/ngoc-minh.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167368/mohamed.webp',
     panelClass: 'bg-blush-100/70',
     avatarShape: '46% 54% 44% 56% / 54% 46% 54% 46%',
   },
