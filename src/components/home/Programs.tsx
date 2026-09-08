@@ -54,7 +54,7 @@ const programs: Program[] = [
     tagline: 'Tăng tốc tiếng Anh - chuẩn bị hành trang cho những bước nhảy vọt.',
     body: 'Học sinh nâng cao năng lực ngôn ngữ học thuật và tư duy phản biện qua luyện viết luận, đọc hiểu chuyên sâu và thuyết trình, sẵn sàng cho các kỳ thi và môi trường học tập quốc tế.',
     image:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167373/hs-vo-tran-song-thu.png',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167374/hs-nguyen-lam-ngoc-767x1536.png',
     character:
       'https://res.cloudinary.com/wsaz946u/image/upload/v1788166533/elliot.svg',
     panelClass: 'bg-blush-100/80',
