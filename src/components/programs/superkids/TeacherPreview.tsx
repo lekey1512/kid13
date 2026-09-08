@@ -42,7 +42,7 @@ const teachers: Teacher[] = [
     prefix: 'Cô',
     name: 'Cẩm Tiên',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167396/kindy_tranbaokhang.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167434/kindy_Linzi-Mary-Dickson.webp',
     tag: 'Giáo viên Việt Nam',
     isNative: false,
     avatarShape: '48% 52% 44% 56% / 56% 44% 56% 44%',
