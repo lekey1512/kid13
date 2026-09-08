@@ -47,7 +47,7 @@ const testimonials: Testimonial[] = [
     quote:
       'Báo cáo tiến độ hàng tháng rất chi tiết, mình nắm rõ con đang mạnh kỹ năng nào và cần cải thiện gì. Rất yên tâm khi gửi con cho ILE.',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167397/kindy_vudanhthanh.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167368/mohamed.webp',
     panelClass: 'bg-cream-50',
     avatarShape: '42% 58% 52% 48% / 58% 42% 58% 42%',
   },
