@@ -43,7 +43,7 @@ const teachers: Teacher[] = [
   },
   {
     prefix: 'Cô',
-    name: 'Cẩm Tiên',
+    name: 'Mary',
     photo:
       'https://res.cloudinary.com/wsaz946u/image/upload/v1788167434/kindy_Linzi-Mary-Dickson.webp',
     tag: 'Giáo viên Việt Nam',
