@@ -44,7 +44,7 @@ const activities: ActivityRow[] = [
   },
   {
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167399/kindy_carousel-3.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788841058/hoat-dong_5.jpg',
     number: '03',
     tag: 'Hoạt động 03',
     title: 'Góc âm nhạc',
