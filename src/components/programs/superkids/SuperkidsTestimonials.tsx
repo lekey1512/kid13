@@ -37,7 +37,7 @@ const testimonials: Testimonial[] = [
     quote:
       'Con mới học được một thời gian ngắn mà đã tự tin chào hỏi người nước ngoài khi gặp ở công viên. Sự tự tin đó là điều mình mong muốn nhất.',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167402/kindy_letieucat.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167368/ngoc-minh.webp',
     panelClass: 'bg-sky-100/60',
     avatarShape: '58% 42% 45% 55% / 48% 55% 45% 52%',
   },
