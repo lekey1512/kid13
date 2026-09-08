@@ -67,7 +67,7 @@ const testimonials: Testimonial[] = [
     quote:
       'Đồng hành với ILE mấy năm nay, mình thấy rõ sự tiến bộ của con qua từng giai đoạn — không chỉ tiếng Anh mà cả sự tự tin.',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167400/kindy_hotantinhanh.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167368/mohamed.webp',
     panelClass: 'bg-cream-50',
     avatarShape: '55% 45% 40% 60% / 60% 48% 52% 40%',
   },
