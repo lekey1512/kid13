@@ -3,7 +3,7 @@ import TeacherGallery from '@/components/teachers/TeacherGallery';
 import FinalCTA from '@/components/home/FinalCTA';
 
 const BANNER_PHOTO =
-  'https://res.cloudinary.com/wsaz946u/image/upload/v1788167400/kindy_langoctuenhi.webp';
+  'https://res.cloudinary.com/wsaz946u/image/upload/v1788841059/hoat-dong_2.jpg';
 
 export default function TeachersPage() {
   return (
