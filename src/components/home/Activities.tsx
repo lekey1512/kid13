@@ -32,7 +32,7 @@ const activities: Activity[] = [
   },
   {
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167399/kindy_carousel-3.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788841058/hoat-dong_5.jpg',
     caption: 'Góc âm nhạc',
     width: 420,
     rotate: 'rotate-[-2deg]',
