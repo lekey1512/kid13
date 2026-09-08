@@ -16,7 +16,7 @@ interface ActivityRow {
 const activities: ActivityRow[] = [
   {
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167398/kindy_carousel-1.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788841058/hoat-dong_6.jpg',
     number: '01',
     tag: 'Hoạt động 01',
     title: 'Giờ kể chuyện',
