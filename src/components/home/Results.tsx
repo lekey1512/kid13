@@ -85,7 +85,7 @@ const students: Student[] = [
     name: 'Nguyễn Hoàng Kim Ngân',
     context: 'Lớp 9 · Trường TH-THCS-THPT Thái Bình Dương (IPS)',
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167401/kindy_lekimphandang.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167400/kindy_langoctuenhi.webp',
     achievements: [
       'Học bổng Tài năng IGC cấp THCS',
       'Diễn giả TEDx Youth IGCSchool TBD 2022',
