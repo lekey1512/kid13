@@ -14,7 +14,7 @@ interface Activity {
 const activities: Activity[] = [
   {
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167398/kindy_carousel-1.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788841058/hoat-dong_6.jpg',
     caption: 'Giờ kể chuyện',
     width: 380,
     rotate: 'rotate-[-4deg]',
