@@ -3,7 +3,7 @@ import { Sparkles, Star } from 'lucide-react';
 const PRIMARY_PHOTO =
   'https://res.cloudinary.com/wsaz946u/image/upload/v1788167373/hs-vo-tran-song-thu.png';
 const SECONDARY_PHOTO =
-  'https://res.cloudinary.com/wsaz946u/image/upload/v1788167401/kindy_lekimphandang.webp';
+  'https://res.cloudinary.com/wsaz946u/image/upload/v1788167378/hs-kim-anh-khoi.png';
 const BG_IMAGE =
   'https://res.cloudinary.com/wsaz946u/image/upload/v1788166535/kindy_bg_form_top.webp';
 const ANIMAL =
