@@ -23,7 +23,7 @@ const activities: Activity[] = [
   },
   {
     photo:
-      'https://res.cloudinary.com/wsaz946u/image/upload/v1788167399/kindy_carousel-2.webp',
+      'https://res.cloudinary.com/wsaz946u/image/upload/v1788841058/hoat-dong.jpg',
     caption: 'Trò chơi vận động',
     width: 340,
     rotate: 'rotate-[3deg]',
